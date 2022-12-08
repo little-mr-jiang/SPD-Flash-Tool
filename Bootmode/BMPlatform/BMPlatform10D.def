@@ -1,0 +1,7 @@
+; BMPlatform10D.def : Declares the module parameters for the DLL.
+
+LIBRARY      "BMPlatform10D"
+;DESCRIPTION  "BMPlatform10D Windows Dynamic Link Library"
+
+EXPORTS
+    ; Explicit exports can go here
